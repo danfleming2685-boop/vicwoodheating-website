@@ -299,7 +299,7 @@ export default function VicWoodHeaterServicesWebsite() {
               target="_blank"
               rel="noopener noreferrer"
             >Fa
-              <button className{'$={buttonClass} min-w-[240px]'>
+              <button className{'$={buttonClass} min-w-[240px]'}>
               message on facebook
             </button>
             </a>
