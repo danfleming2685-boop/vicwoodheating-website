@@ -290,18 +290,14 @@ export default function VicWoodHeaterServicesWebsite() {
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <a href="tel:0422772660">
               <button className={`${goldButtonClass} min-w-[240px]`}>
-                <Phone className="mr-2 h-5 w-5" />
-                0422 772 660
-              </button>
+                <Phone className="mr-2 h-5 w-5" />0422 772 660</button>
             </a>
             <a
               href="https://facebook.com/VicWoodHeaterServices"
               target="_blank"
               rel="noopener noreferrer"
             >Fa
-              <button className{`$={buttonClass} min-w-[240px]`}>
-              message on facebook
-            </button>
+              <button className{`$={buttonClass} min-w-[240px]`}>message on facebook</button>
             </a>
           </div>
         </div>
