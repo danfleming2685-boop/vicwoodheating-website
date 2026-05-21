@@ -297,8 +297,8 @@ export default function VicWoodHeaterServicesWebsite() {
               href="https://facebook.com/VicWoodHeaterServices"
               target="_blank"
               rel="noreferrer"
-            >
-              <button className={buttonClass}>Facebook:https://facebook.com/VicWoodHeaterServices</button>
+            >Fa
+              <button className={buttonClass}>message on facebook</button>
             </a>
           </div>
         </div>
