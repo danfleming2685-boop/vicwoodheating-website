@@ -131,7 +131,7 @@ export default function VicWoodHeaterServicesWebsite() {
 
             <div className="mt-8 grid max-w-xl grid-cols-3 gap-3 text-center">
               <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
-                <p className="text-2xl font-black text-yellow-500">75km</p>
+                <p className="text-2xl font-black text-yellow-500">120km</p>
                 <p className="text-xs text-neutral-400">from Kilmore</p>
               </div>
               <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
@@ -294,11 +294,11 @@ export default function VicWoodHeaterServicesWebsite() {
               </button>
             </a>
             <a
-              href="https://www.facebook.com/vicwoodheaterservices"
+              href="https://urldefense.com/v3/__https://www.facebook.com/share/1CTESnr3XR/?mibextid=wwXIfr__;!!Imm9QixJ488sp0yLXil_!ba6uHR8o4hg0C4CwYD1oFpdjYPZmfGalBpcOGNTgrNosWOpepq0TFk_Q0Y7SO1TyQl6b0_tXoS6VjrcnOJ3R5xzwWAsFC0RP6yicr3YXV80QcNJQ$"
               target="_blank"
               rel="noreferrer"
             >
-              <button className={buttonClass}>Facebook: @vic wood heater services</button>
+              <button className={buttonClass}>Facebook: @https://urldefense.com/v3/__https://www.facebook.com/share/1CTESnr3XR/?mibextid=wwXIfr__;!!Imm9QixJ488sp0yLXil_!ba6uHR8o4hg0C4CwYD1oFpdjYPZmfGalBpcOGNTgrNosWOpepq0TFk_Q0Y7SO1TyQl6b0_tXoS6VjrcnOJ3R5xzwWAsFC0RP6yicr3YXV80QcNJQ$</button>
             </a>
           </div>
         </div>
