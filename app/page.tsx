@@ -123,7 +123,8 @@ export default function VicWoodHeaterServicesWebsite() {
                 rel="noreferrer"
               >
                 <button className={buttonClass}>
-                  <MessageCircle className="mr-2 h-5 w-5" /> Message on Facebook
+                  <MessageCircle className="mr-2 h-5 w-5" /> there are more photos and 
+                  Message on Facebook
                 </button>
               </a>
             </div>
