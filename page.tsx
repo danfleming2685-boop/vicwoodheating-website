@@ -119,12 +119,13 @@ export default function VicWoodHeaterServicesWebsite() {
                 </button>
               </a>
               <a
-                href="https://urldefense.com/v3/__https://www.facebook.com/share/1CTESnr3XR/?mibextid=wwXIfr__;!!Imm9QixJ488sp0yLXil_!ba6uHR8o4hg0C4CwYD1oFpdjYPZmfGalBpcOGNTgrNosWOpepq0TFk_Q0Y7SO1TyQl6b0_tXoS6VjrcnOJ3R5xzwWAsFC0RP6yicr3YXV80QcNJQ$"
+                href="https://facebook.com/VicWoodHeaterServices"
                 target="_blank"
                 rel="noreferrer"
               >
                 <button className={buttonClass}>
-                  <MessageCircle className="mr-2 h-5 w-5" /> Message on Facebook
+                  <MessageCircle className="mr-2 h-5 w-5" /> more photos and
+                  Message on Facebook
                 </button>
               </a>
             </div>
@@ -294,11 +295,11 @@ export default function VicWoodHeaterServicesWebsite() {
               </button>
             </a>
             <a
-              href="https://urldefense.com/v3/__https://www.facebook.com/share/1CTESnr3XR/?mibextid=wwXIfr__;!!Imm9QixJ488sp0yLXil_!ba6uHR8o4hg0C4CwYD1oFpdjYPZmfGalBpcOGNTgrNosWOpepq0TFk_Q0Y7SO1TyQl6b0_tXoS6VjrcnOJ3R5xzwWAsFC0RP6yicr3YXV80QcNJQ$"
+              href="https://urldefense.com/v3/__https://facebook.com/VicWoodHeaterServices"
               target="_blank"
               rel="noreferrer"
             >
-              <button className={buttonClass}>Facebook: @https://urldefense.com/v3/__https://www.facebook.com/share/1CTESnr3XR/?mibextid=wwXIfr__;!!Imm9QixJ488sp0yLXil_!ba6uHR8o4hg0C4CwYD1oFpdjYPZmfGalBpcOGNTgrNosWOpepq0TFk_Q0Y7SO1TyQl6b0_tXoS6VjrcnOJ3R5xzwWAsFC0RP6yicr3YXV80QcNJQ$</button>
+              <button className={buttonClass}>Facebook:https://facebook.com/VicWoodHeaterServices</button>
             </a>
           </div>
         </div>
