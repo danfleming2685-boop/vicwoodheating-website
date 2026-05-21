@@ -35,7 +35,7 @@ const services = [
 ];
 
 const why = [
-  "Local service within 75km of Kilmore",
+  "Local service within 120km of Kilmore",
   "Reliable communication and clear quotes",
   "Built for homeowners, renovators, and landlords",
   "Neat workmanship and jobsite clean-up",
@@ -56,6 +56,7 @@ const areas = [
   "Craigieburn",
   "Sunbury",
   "Nagambie",
+  "Ect.",
 ];
 
 const buttonClass =
@@ -118,7 +119,7 @@ export default function VicWoodHeaterServicesWebsite() {
                 </button>
               </a>
               <a
-                href="https://www.facebook.com/vicwoodheaterservices"
+                href="https://urldefense.com/v3/__https://www.facebook.com/share/1CTESnr3XR/?mibextid=wwXIfr__;!!Imm9QixJ488sp0yLXil_!ba6uHR8o4hg0C4CwYD1oFpdjYPZmfGalBpcOGNTgrNosWOpepq0TFk_Q0Y7SO1TyQl6b0_tXoS6VjrcnOJ3R5xzwWAsFC0RP6yicr3YXV80QcNJQ$"
                 target="_blank"
                 rel="noreferrer"
               >
