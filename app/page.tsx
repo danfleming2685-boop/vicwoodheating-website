@@ -287,18 +287,21 @@ export default function VicWoodHeaterServicesWebsite() {
             Call now or send photos of your heater location, roof area, and room layout for a faster quote.
           </p>
 
-          <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
+          <div className="mt-8 flex flex-wrap justify-center gap-4">
             <a href="tel:0422772660">
-              <button className={goldButtonClass}>
-                <Phone className="mr-2 h-5 w-5" /> 0422 772 660
+              <button className={'${goldButtonClass} min-w-[240px]'}>
+                <Phone className="mr-2 h-5 w-5" />
+                0422 772 660
               </button>
             </a>
             <a
               href="https://facebook.com/VicWoodHeaterServices"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >Fa
-              <button className={buttonClass}>message on facebook</button>
+              <button className{'$={buttonClass} min-w-[240px]'>
+              message on facebook
+            </button>
             </a>
           </div>
         </div>
