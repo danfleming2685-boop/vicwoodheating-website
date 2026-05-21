@@ -261,7 +261,7 @@ export default function VicWoodHeaterServicesWebsite() {
                 Based near Kilmore. Travelling around Victoria.
               </h2>
               <p className="mt-5 text-lg leading-8 text-neutral-300">
-                We service homes, farms, rentals, sheds, and renovation projects within approximately 75km of Kilmore.
+                We service homes, farms, rentals, sheds, and renovation projects within approximately 120km of Kilmore.
               </p>
             </div>
 
